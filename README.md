@@ -4,7 +4,6 @@
 
 ![Java](https://img.shields.io/badge/Java-17+-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
 
