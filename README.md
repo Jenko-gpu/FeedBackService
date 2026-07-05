@@ -19,21 +19,14 @@
 | Компонент              | Технология                                  |
 |------------------------|---------------------------------------------|
 | **Язык**               | Java 17+                                    |
-| **Фреймворк**          | Spring Boot 3.x, Spring Cloud 2023.x        |
+| **Фреймворк**          | Spring Boot 3.x      |
 | **Сборка**             | Maven (многомодульный)                      |
 | **ORM**                | Spring Data JPA + Hibernate                 |
-| **Миграции БД**        | Liquibase                                   |
 | **Реляционная БД**     | PostgreSQL 15+                              |
-| **Объектное хранилище**| MinIO (S3-совместимое) / AWS S3             |
 | **Брокер сообщений**   | Apache Kafka                                |
-| **API-документация**   | SpringDoc OpenAPI (Swagger UI)              |
 | **Безопасность**       | Spring Security + OAuth2 JWT                |
-| **Мониторинг**         | Micrometer + Prometheus + Grafana           |
-| **Трассировка**        | Zipkin / Jaeger                             |
 | **Service Discovery**  | Netflix Eureka (опционально)                |
 | **API Gateway**        | Spring Cloud Gateway (опционально)          |
-| **Контейнеризация**    | Docker + Docker Compose                     |
-| **Оркестрация**        | Kubernetes                                  |
 | **Тестирование**       | JUnit 5, Mockito, Testcontainers            |
 
 ---
